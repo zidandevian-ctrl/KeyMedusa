@@ -1,7 +1,7 @@
 [
     {
         "device_id": "46afbc997338164b",
-        "key": "MEDUSA-VIP-LIAN",
+        "key": "LIAN GANTENG",
         "expirydate": "30-12-8025",
         "Allowoffline": true
     },
@@ -126,10 +126,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
+        "device_id": "d01ac7ddc1085c2d",
+        "key": "Haruka",
+        "expirydate": "31-12-8025",
+        "Allowoffline": true
     },
     {
         "device_id": "device123",
