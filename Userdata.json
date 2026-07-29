@@ -1,0 +1,146 @@
+[
+    {
+        "device_id": "46afbc997338164b",
+        "key": "MEDUSA-VIP-LIAN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "aaf356b35eb5d0a1",
+        "key": "MEDUSA-VIP-ETHAN",
+        "expirydate": "01-01-9999",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "339ab82e79e52cfe",
+        "key": "MEDUSA-VIP-APIS",
+        "expirydate": "28-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5cf4f8565af549c7",
+        "key": "MEDUSA-VIP-LCFR",
+        "expirydate": "29-05-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "90895a03d7171f2e",
+        "key": "MEDUSA-VIP-DADAN",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "53154885f7bc4cb3",
+        "key": "MEDUSA-VIP-PABLO",
+        "expirydate": "30-05-8026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "3d753792a538abe4",
+        "key": "MEDUSA-VIP-LVNW",
+        "expirydate": "30-12-2099",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ac6d827ebb5c5ad9",
+        "key": "MEDUSA-VIP-BARA",
+        "expirydate": "30-06-8026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "583149df7fddfa2f",
+        "key": "MEDUSA-VIP-ATh1",
+        "expirydate": "31-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "aba73f6ebafeeae8",
+        "key": "MEDUSA-VIP-RAN0",
+        "expirydate": "30-12-9025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dc4ea3be90b05558",
+        "key": "NIGA-VIP",
+        "expirydate": "04-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "be1ae3f7eef96173",
+        "key": "MEDUSA-VIP-UVSJK",
+        "expirydate": "15-06-8089",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "088e50006843bc2a",
+        "key": "MEDUSA-VIP-JERY",
+        "expirydate": "03-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "85fbcca3bc5264e3",
+        "key": "MEDUSA-VIP-CARIUUS",
+        "expirydate": "13-12-8029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9fa7922e5e985fbe",
+        "key": "MEDUSA-VIP-FLOO",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "834ede0c52ff7ccc",
+        "key": "MEDUSA-VIP-DAPA",
+        "expirydate": "15-06-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c20b7452f97ccd32",
+        "key": "MEDUSA-VIP-ARSEN",
+        "expirydate": "11-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "82b11f199953b6bf",
+        "key": "MEDUSA-VIP-RIS",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7eafa83dba4d93ea",
+        "key": "MEDUSA-VIP-7eafa83dba4d93ea",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "20e9a96f6e77c6fb",
+        "key": "MEDUSA-VIP-20e9a96f6e77c6fb",
+        "expirydate": "15-06-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "920f040388bcab19",
+        "key": "MEDUSA-VIP-RIEN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
