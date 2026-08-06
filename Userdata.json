@@ -150,6 +150,24 @@
         "Allowoffline": true
     },
     {
+        "device_id": "84b89f786268338c",
+        "key": "MEDUSA-VIP-JORVAN",
+        "expirydate": "15-06-8888",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-8025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-8025",
