@@ -184,5 +184,11 @@
         "key": "MEDUSA-VIP-DADAN",
         "expirydate": "15-06-8925",
         "Allowoffline": true
+    },
+    {
+        "device_id": "85fd01c21cec5863",
+        "key": "MEDUSA-VIP-FAUTEUR",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
 ]
