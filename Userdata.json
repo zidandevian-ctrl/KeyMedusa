@@ -190,5 +190,11 @@
         "key": "MEDUSA-VIP-FAUTEUR",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ba4493b7d541793f",
+        "key": "MEDUSA-VIP-MUKL1S",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
 ]
