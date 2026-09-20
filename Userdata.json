@@ -196,5 +196,11 @@
         "key": "MEDUSA-VIP-MUKL1S",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2a324ac8b6966351",
+        "key": "MEDUSA-VIP-RIO",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
 ]
