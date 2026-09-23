@@ -202,5 +202,12 @@
         "key": "MEDUSA-VIP-RIO",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "KOSONG",
+        "key": "KOSONG",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
+    
 ]
