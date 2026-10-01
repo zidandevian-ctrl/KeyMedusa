@@ -226,6 +226,12 @@
         "key": "c73faea040eedc7e",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2ae8c95d0b9a4b62",
+        "key": "2ae8c95d0b9a4b62",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
     
 ]
