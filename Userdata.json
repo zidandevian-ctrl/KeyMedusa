@@ -288,6 +288,18 @@
         "key": "MEDUSA-VIP-LICI",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9991b6fcdeb79c39",
+        "key": "MEDUSA-VIP-KENETH",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ea60ee5bb64ecbc9",
+        "key": "ea60ee5bb64ecbc9",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
     
 ]
