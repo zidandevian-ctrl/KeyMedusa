@@ -306,6 +306,13 @@
         "key": "MEDUSA-VIP-AWA",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "461b90361f79429d",
+        "key": "MEDUSA-VIP-YUKO",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
     
 ]
