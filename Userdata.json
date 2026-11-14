@@ -337,6 +337,66 @@
         "key": "SATANIC-BAR",
         "expirydate": "30-12-8025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bdd051c04f69936c",
+        "key": "SATANIC-ALDIAN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5a467135694e4315",
+        "key": "SATANIC-ANN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "65aa79bf9d74a55d",
+        "key": "SATANIC-ELL",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a8f600c506443e1b",
+        "key": "SATANIC-XIN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "e56fbaf8e080c789",
+        "key": "SATANIC-OYIN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "aa598fe42d6aaa62",
+        "key": "SATANIC-CEYIN",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2b85788345692439",
+        "key": "SATANIC-LANGIT",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7eafa83dba4d93ea",
+        "key": "SATANIC-DENCU",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "DEVICE ID",
+        "key": "SATANIC-",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "DEVICE ID",
+        "key": "SATANIC-",
+        "expirydate": "30-12-8025",
+        "Allowoffline": true
     }
     
 ]
